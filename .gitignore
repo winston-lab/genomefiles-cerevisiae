@@ -1,0 +1,10 @@
+annotations/Scer_genic-regions.bed
+annotations/Scer_divergent-regions.bed
+annotations/Scer_convergent-regions.bed
+annotations/Scer_intergenic-regions.bed
+S_cerevisiae.R64-2-1-GC_pct.bw
+*.fai
+
+bowtie1_indexes/*
+bowtie2_indexes/*
+

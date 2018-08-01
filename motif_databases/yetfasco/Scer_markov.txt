@@ -1,0 +1,7 @@
+# 0-order Markov frequencies from file /n/groups/winston/jc459/intragenic/genome/S_cerevisiae.R64-2-1.fa
+# seqs: 17    min: 85779    max: 1531933    avg: 715123.8    sum: 12157105    alph: DNA
+# order 0
+A 3.093e-01
+C 1.907e-01
+G 1.907e-01
+T 3.093e-01
