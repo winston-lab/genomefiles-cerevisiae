@@ -1,8 +1,6 @@
 
 # *S. cerevisiae* genome files
 
-## description
-
 Various files for *S. cerevisiae* (genome build R64-2-1): 
 
 - FASTA files of genome
